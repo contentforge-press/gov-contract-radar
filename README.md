@@ -1,5 +1,8 @@
 # GovContract Radar
 
+![npm](https://img.shields.io/npm/v/gov-contract-radar-mcp)
+![npm downloads](https://img.shields.io/npm/dm/gov-contract-radar-mcp)
+
 **AI-native MCP server for U.S. federal contract opportunities (SAM.gov).**
 Filter new federal solicitations by NAICS code and set-aside status (8(a), SDVOSB, WOSB, HUBZone), get deadlines and agency details — delivered the day they post.
 
